@@ -67,9 +67,6 @@ I'm a passionate **B.Tech Computer Science & Engineering** student with a burnin
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rakshitha%20Alsatwar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rakshithaalsatwar)
 [![GitHub](https://img.shields.io/badge/GitHub-rakshithaalsatwar-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rakshithaalsatwar)
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@rakshithaalsatwar)
-[![Medium](https://img.shields.io/badge/Medium-Read%20My%20Blogs-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rakshithaalsatwar)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow%20Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rakshithaalsatwar)
 
 </div>
 
